@@ -1,2 +1,3 @@
 # hello-world
-learning basic git
+things are different than before
+just for learning something new.
